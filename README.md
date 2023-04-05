@@ -2,6 +2,10 @@
 
 It is the base token contracts for the BORA v2 projects, which will be launched on multiple chains.
 
+## Audit Report
+
+https://skynet.certik.com/projects/bora
+
 ## Files
 
 #### Bora20v2.sol
